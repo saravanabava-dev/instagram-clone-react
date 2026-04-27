@@ -5,6 +5,11 @@ This project replicates basic Instagram features like posts, UI layout, and inte
 
 ---
 
+## 🚀 Live Demo
+[View Project](http://localhost:5173/)
+
+---
+
 ## 🚀 Features
 - 🖼️ Display posts (images & captions)
 - ❤️ Like button functionality
@@ -80,11 +85,6 @@ npm start
 - Add real-time comments
 - Upload images feature
 - Improve responsive design
-
----
-
-## 🙌 Credits
-This project was built as part of learning React from Code.io tutorials.
 
 ---
 
