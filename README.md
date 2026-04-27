@@ -1,16 +1,92 @@
-# React + Vite
+# 📸 Instagram Clone (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Instagram clone built using React.js.  
+This project replicates basic Instagram features like posts, UI layout, and interactions for learning purposes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🖼️ Display posts (images & captions)
+- ❤️ Like button functionality
+- 💬 Basic UI for comments (optional)
+- 🔄 Dynamic rendering using React
+- 🎨 Clean Instagram-inspired UI
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```
+instagram-clone/
+│
+├── public/
+│   └── index.html        # Main HTML file
+│
+├── src/
+│   ├── App.js            # Main component
+│   ├── index.js          # Entry point
+│   ├── components/       # Reusable components (Post, Navbar, etc.)
+│   └── styles.css        # Styling
+│
+├── package.json          # Dependencies
+└── README.md             # Documentation
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+2. Navigate to the project folder
+
+```
+cd instagram-clone
+```
+
+3. Install dependencies
+
+```
+npm install
+```
+
+4. Run the app
+
+```
+npm start
+```
+
+---
+
+## 📌 Learning Outcomes
+- Understanding React components
+- Managing state and props
+- Building reusable UI components
+- Handling user interactions
+
+---
+
+## 🔧 Future Improvements
+- Add authentication (login/signup)
+- Connect with backend (Firebase / Node.js)
+- Add real-time comments
+- Upload images feature
+- Improve responsive design
+
+---
+
+## 🙌 Credits
+This project was built as part of learning React from Code.io tutorials.
+
+---
+
+## 👨‍💻 Author
+Saravana Bava
