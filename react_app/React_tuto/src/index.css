@@ -1,0 +1,46 @@
+
+.bava{
+
+    text-align: center;
+padding: 50px 50px;
+display: block;
+height: 25px;
+border-radius: 25px;
+
+}
+button{
+  
+   border-radius: 40px;
+   
+    text-align: center;
+}
+
+.img{
+    width: 75px;
+    height: 75px;
+}
+.bava{
+   
+ display:flex;
+    gap: 20px;
+    padding: 2px;
+}
+.code{
+ background-color: beige;
+ max-width: 600px;
+ height: 290px;
+ width: 150px;
+ border: 2px solid black;
+ border-radius: 5px;
+ margin: 10px;
+ padding: 2px;
+ text-align: center;
+
+}
+.code img{
+    width: 150px;
+    
+    margin: auto;
+    padding: auto;
+
+}

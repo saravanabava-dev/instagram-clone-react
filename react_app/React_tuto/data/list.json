@@ -1,0 +1,25 @@
+{
+"courses":[
+    {
+            "id":1,
+     "name" :"saraa" ,
+     "role":"front a a a a a a a a a a", 
+     "price":1000,
+     "image":"http://localhost:3000/unnamed.jpg"
+        },
+        {
+            "id":2,
+            "name":"sks", 
+            "role":"back a a a a a a  a " ,
+            "price":2000,
+             "image":"http://localhost:3000/unnamed.jpg"
+        },
+        {
+            "id":3,
+         "name":"saraa" ,
+         "role":"front a a a a a a a a a " ,
+         "price":1500,
+          "image":"http://localhost:3000/unnamed.jpg"
+        }
+    ]
+}
